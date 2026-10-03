@@ -1,0 +1,59 @@
+* {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: center;
+        }
+        img {
+            width: 200px;
+            height: 150px;
+        }
+        #css {
+            color: orange;
+        }
+        #cordefundo {
+            background-color: lightblue;
+            color: blue;
+            font-weight: bold;
+        }
+        #cortext {
+            color: hotpink;
+            font-style: italic;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: bold;
+        }
+        #bordertext {
+            border-style: solid;
+            border-color: rgb(165, 175, 119);
+            font-size: 25px;
+        }
+        #mistura {
+            font-size: 30px;
+            
+        }
+        #variacoes{
+            border: 2px solid rgb(169, 184, 116);
+            text-decoration: underline;
+            font-size: 25px;
+            color: green;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        #exmp {
+            font-size: 50px;
+            background-color: rgb(76, 41, 121);
+            color: rgb(177, 116, 5);
+            font-style: italic;
+            text-decoration: underline;
+            font-weight:bold;
+        }
+
+        .hr1{
+            height: 1px; 
+            background-color: white; 
+            border-top: 5px solid black;
+            border-bottom: 5px solid black; 
+            border: 5px solid black;
+        }
+
+        hr{
+            border: 5px solid black;
+        }
+        
